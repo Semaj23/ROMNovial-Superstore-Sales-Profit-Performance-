@@ -24,6 +24,7 @@ Built with Microsoft Power BI, the dashboard features rich interactive visualiza
 
 ### 1. Average Profit per Order by Sub-Category
 **Observation**: 'Markers' deliver the highest average profit per order, while 'Bookcases' contribute the least.
+
 **Recommendation**: Expand sales strategies around high-margin items like Markers and Printers. Reassess pricing or sourcing strategies for Bookcases.
 
 ### 2. Monthly Sales Trend
@@ -33,6 +34,7 @@ Built with Microsoft Power BI, the dashboard features rich interactive visualiza
 
 ### 3. Payment Mode Analysis
 **Observation**: Debit Card is the most used payment method, followed by Credit Card and UPI.
+
 **Recommendation**: Incentivize preferred digital payment modes and optimize checkouts for these channels to increase conversion.
 
 ### 4. Top Customers by Sales
