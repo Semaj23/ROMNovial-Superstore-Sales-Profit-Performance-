@@ -28,6 +28,7 @@ Built with Microsoft Power BI, the dashboard features rich interactive visualiza
 
 ### 2. Monthly Sales Trend
 **Observation**: Sales show fluctuations, with noticeable spikes and drops across different periods.
+
 **Recommendation**: Investigate seasonal or promotional events tied to high-performing months. Implement demand forecasting models for better inventory planning.
 
 ### 3. Payment Mode Analysis
@@ -36,18 +37,22 @@ Built with Microsoft Power BI, the dashboard features rich interactive visualiza
 
 ### 4. Top Customers by Sales
 **Observation**: Cory Evans leads as the top customer, followed closely by Nicholas Anderson and Emily Ellison.
+
 **Recommendation**: Consider loyalty programs or targeted marketing for top spenders to boost retention and advocacy.
 
 ### 5. Product Quantity Sold by Category
 **Observation**: Furniture and Office Supplies have nearly equal share, with Electronics slightly behind.
+
 **Recommendation**: Cross-sell electronics with office products; bundle packages to increase average cart size.
 
 ### 6. Top 5 Performing Cities by Profit
 **Observation**: Orlando dominates in profit contribution, nearly doubling that of other cities.
+
 **Recommendation**: Investigate factors behind Orlando's performance—such as demographics or promotions—and replicate success in lower-performing cities.
 
 ### 7. Quantity Sold per City
 **Observation**: Buffalo and San Francisco have the highest sales volume in quantity, though not necessarily highest profit.
+
 **Recommendation**: Monitor cost margins in these regions and promote profitable product mixes to optimize value per unit sold.
 
 ---
